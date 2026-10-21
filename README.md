@@ -65,7 +65,7 @@ pip install gromacs-mcp
 Or from source (editable):
 
 ```bash
-git clone https://github.com/jolayfield/gromacs-mcp
+git clone https://github.com/layfield-lab/gromacs-mcp
 cd gromacs-mcp
 pip install -e ".[dev]"
 ```
